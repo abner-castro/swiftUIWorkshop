@@ -11,6 +11,7 @@
 		9ADB4F9D282C6D0A009C6D40 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADB4F9C282C6D0A009C6D40 /* ContentView.swift */; };
 		9ADB4F9F282C6D0B009C6D40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ADB4F9E282C6D0B009C6D40 /* Assets.xcassets */; };
 		9ADB4FA2282C6D0B009C6D40 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ADB4FA1282C6D0B009C6D40 /* Preview Assets.xcassets */; };
+		9ADB4FA9282C73AD009C6D40 /* BookDetailLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADB4FA8282C73AD009C6D40 /* BookDetailLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9ADB4F9C282C6D0A009C6D40 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9ADB4F9E282C6D0B009C6D40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9ADB4FA1282C6D0B009C6D40 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9ADB4FA8282C73AD009C6D40 /* BookDetailLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookDetailLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				9ADB4F9A282C6D0A009C6D40 /* SwiftUIWorkshopsApp.swift */,
 				9ADB4F9C282C6D0A009C6D40 /* ContentView.swift */,
+				9ADB4FA8282C73AD009C6D40 /* BookDetailLabel.swift */,
 				9ADB4F9E282C6D0B009C6D40 /* Assets.xcassets */,
 				9ADB4FA0282C6D0B009C6D40 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9ADB4F9D282C6D0A009C6D40 /* ContentView.swift in Sources */,
+				9ADB4FA9282C73AD009C6D40 /* BookDetailLabel.swift in Sources */,
 				9ADB4F9B282C6D0A009C6D40 /* SwiftUIWorkshopsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
